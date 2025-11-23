@@ -42,7 +42,7 @@ nav a:hover {
 }
 
 .hero {
-  background: url('../images/hero.jpg') center/cover no-repeat;
+  background: url('hero.jpg') center/cover no-repeat;
   height: 90vh;
   display: flex;
   justify-content: center;
@@ -517,3 +517,4 @@ main h3 {
     color: green;
     font-weight: bold;
 }
+
