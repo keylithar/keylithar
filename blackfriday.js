@@ -4,7 +4,7 @@
    true  = ACTIVAR Black Friday (todos los precios a 26 €)
    false = Precios normales
    ========================================================== */
-const MODO_OFERTAS = false; // ← CAMBIA AQUÍ A true o false
+const MODO_OFERTAS = true; // ← CAMBIA AQUÍ A true o false
 const PRECIO_BLACKFRIDAY = "26 €";
 
 // Asegurarse que el DOM está cargado
@@ -26,7 +26,7 @@ js/blackfriday.js
 
 Busca esta línea:
 
-const MODO_OFERTAS = true; // ← CAMBIA AQUÍ
+const MODO_OFERTAS = true; // 
 
 
 Cambia el valor según necesites:
@@ -37,4 +37,5 @@ false → Precios normales
 
 
 Guarda el archivo y recarga la página. ✅ */
+
 
